@@ -36,6 +36,6 @@ I'm a 5th semester student at UFPE university - Brazil.
 ---
 
 ### 🏆 Top Languages
-<div>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierreoria&theme=tokyonight)
-</div>
+<a href="https://github.com/pierreoria">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreoria&hide=Jupyter%20Notebook,Verilog,VHDL&theme=algolia&layout=compact" height="180"/>
+</a>
