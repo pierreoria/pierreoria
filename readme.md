@@ -33,9 +33,3 @@ I'm a 5th semester student at UFPE university - Brazil.
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
 </div>
----
-
-### 🏆 Top Languages
-<a href="https://github.com/pierreoria">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreoria&hide=Jupyter%20Notebook,Verilog,VHDL&theme=algolia&layout=compact" height="180"/>
-</a>
