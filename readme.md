@@ -4,19 +4,17 @@
 
 # Hi, I'm Pierre!
 
-I'm a 5th semester student at UFPE university - Brazil.
+I'm a Solutions Engineer at Incognia and CS student at UFPE university - Brazil.
 
 ### About me
-
+ 
 - 👨‍💻 Competitive programmer at UFPE's ACM-ICPC team
-- 👨‍🏫 Head Teaching Assistant of the Data Structures and Algorithms course
 - 🏮 Chinese language enthusiast - CUFE University (Beijing) alumni
 
 ### Interests
 
 - Algorithms
-- Education
-- Cross-cultural teams
+- Programming languages
 
 ### Find me
 
