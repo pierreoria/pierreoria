@@ -4,17 +4,18 @@
 
 # Hi, I'm Pierre!
 
-I'm a Solutions Engineer at Incognia and CS student at UFPE university - Brazil.
+I'm a Product Manager for Mobile Integrity at Incognia
 
 ### About me
  
-- 👨‍💻 Competitive programmer at UFPE's ACM-ICPC team
 - 🏮 Chinese language enthusiast - CUFE University (Beijing) alumni
+- 👨‍💻 Competitive programmer
 
 ### Interests
 
-- Algorithms
-- Programming languages
+- Android
+- Security Research
+- Chinese
 
 ### Find me
 
